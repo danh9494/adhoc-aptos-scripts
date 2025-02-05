@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "aptos": "^1.18.0",
+    "@aptos-labs/ts-sdk": "^1.2.0",
+    "typescript": "^5.1.6"
+  }
+}
